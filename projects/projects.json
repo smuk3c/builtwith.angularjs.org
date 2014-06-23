@@ -3580,7 +3580,25 @@
         "No jQuery",
         "Bootstrap"
       ]
-    }
-
+    },
+	{
+	  "name": "Astrolife.si",  
+	  "thumb": "astrolife/thumb.png",
+	  "desc": "Astrolife.si is Slovenian horoscope source built using Angularjs and REST api.", 
+	  "url": "https://www.astrolife.si/", 
+	  "info": "https://www.astrolife.si/", 
+	  "src": "https://github.com/smuk3c/", 
+	  "submitter": "smuk3c", 
+	  "submissionDate": "2014-06-23", /
+	  "tags": [
+		"Toy",
+		"Entertainment",
+		"Animations", 
+		"Local Storage", 
+		"AppCache",
+		"Rest api", 
+		"jQuery" 
+	  ]
+	}
   ]
 }
